@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1373658890 source:e:\gustavo\pendrive 2013\if\algoritmo\codeblocks activities\jogo_4inline\j4emlinha_dados.c
+	<stdio.h>
+	<stdlib.h>
+	"j4emlinha_dados.h"
+
+1373648428 e:\gustavo\pendrive 2013\if\algoritmo\codeblocks activities\jogo_4inline\j4emlinha_dados.h
+
+1373659459 source:e:\gustavo\pendrive 2013\if\algoritmo\codeblocks activities\jogo_4inline\j4emlinha_gui.c
+	<stdio.h>
+	<stdlib.h>
+	"j4emlinha_gui.h"
+
+1373639994 e:\gustavo\pendrive 2013\if\algoritmo\codeblocks activities\jogo_4inline\j4emlinha_gui.h
+	<windows.h>
+	<conio.h>
+
+1373660342 source:e:\gustavo\pendrive 2013\if\algoritmo\codeblocks activities\jogo_4inline\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"j4emlinha_dados.h"
+	"j4emlinha_gui.h"
+
